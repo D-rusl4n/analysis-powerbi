@@ -1,9 +1,3 @@
-# Portfólio de Business Intelligence - Guilherme Lima
-
-Bem-vindo ao meu portfólio de dados. Abaixo estão os projetos desenvolvidos com foco em análise de performance, KPIs financeiros e estratégia de negócios.
-
----
-
 # 🐾 Dashboard de Análise de Vendas - Gatito Petshop
 
 ## 📝 Sobre o Projeto
@@ -28,7 +22,7 @@ Como engenheiro em transição para a área esportiva, a lógica aplicada aqui �
 | **Busca de Produto** | **Scout Individual de Jogador** |
 
 ## 🖥️ Visualização
-> **[CLIQUE AQUI PARA ACESSAR O DASHBOARD ONLINE] ("https://app.powerbi.com/view?r=eyJrIjoiYmYxYzJlNzctMzI3Zi00OGNjLWI5ZWEtZDc2ZTY0OTRlNTY1IiwidCI6IjUyMmY1N2FhLWRjMTEtNDhjZS1iN2ZlLWYxNGZiMTQ4MDRjYyJ9")**
+https://app.powerbi.com/view?r=eyJrIjoiYmYxYzJlNzctMzI3Zi00OGNjLWI5ZWEtZDc2ZTY0OTRlNTY1IiwidCI6IjUyMmY1N2FhLWRjMTEtNDhjZS1iN2ZlLWYxNGZiMTQ4MDRjYyJ9
 
 <img width="1362" height="764" alt="image" src="https://github.com/user-attachments/assets/4aae84f4-2868-4d5e-977e-0b510a51ab93" />
 
@@ -37,21 +31,3 @@ Como engenheiro em transição para a área esportiva, a lógica aplicada aqui �
 - **Navegação Intuitiva:** Uso de botões e segmentação de dados.
 - **Storytelling Visual:** Layout personalizado para facilitar a leitura rápida de métricas chaves.
 - **Análise Temporal:** Monitoramento de performance mensal e trimestral.
-
----
-
-## 2. Case Café Serenatto (Gestão Financeira)
-**Foco:** Análise de produtividade da equipe e eficiência operacional.
-
-![Dashboard Serenatto](image.png)
-
-> **Destaques:**
-> * Comparativo de rentabilidade do negócio x Investimentos (Selic).
-> * Análise detalhada de custos de contratação (PF vs PJ).
-> * Data Storytelling aplicado para facilitar a tomada de decisão da diretoria.
-
----
-
-### 🛠 Ferramentas Utilizadas
-* **Microsoft Power BI** (DAX, Power Query, Visualização)
-* **Excel Avançado** (Tratamento de dados)
