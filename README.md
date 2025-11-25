@@ -31,3 +31,4 @@ Como engenheiro em transição para a área esportiva, a lógica aplicada aqui �
 - **Navegação Intuitiva:** Uso de botões e segmentação de dados.
 - **Storytelling Visual:** Layout personalizado para facilitar a leitura rápida de métricas chaves.
 - **Análise Temporal:** Monitoramento de performance mensal e trimestral.
+*Desenvolvido por Guilherme - https://www.linkedin.com/in/guilherme-lima-12654b16b/*
