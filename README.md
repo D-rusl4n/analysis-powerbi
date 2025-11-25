@@ -28,7 +28,7 @@ Como engenheiro em transição para a área esportiva, a lógica aplicada aqui �
 | **Busca de Produto** | **Scout Individual de Jogador** |
 
 ## 🖥️ Visualização
-> **[CLIQUE AQUI PARA ACESSAR O DASHBOARD ONLINE] (<iframe title="Teste" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYmYxYzJlNzctMzI3Zi00OGNjLWI5ZWEtZDc2ZTY0OTRlNTY1IiwidCI6IjUyMmY1N2FhLWRjMTEtNDhjZS1iN2ZlLWYxNGZiMTQ4MDRjYyJ9" frameborder="0" allowFullScreen="true"></iframe>)**
+> **[CLIQUE AQUI PARA ACESSAR O DASHBOARD ONLINE] ("https://app.powerbi.com/view?r=eyJrIjoiYmYxYzJlNzctMzI3Zi00OGNjLWI5ZWEtZDc2ZTY0OTRlNTY1IiwidCI6IjUyMmY1N2FhLWRjMTEtNDhjZS1iN2ZlLWYxNGZiMTQ4MDRjYyJ9")**
 
 <img width="1362" height="764" alt="image" src="https://github.com/user-attachments/assets/4aae84f4-2868-4d5e-977e-0b510a51ab93" />
 
